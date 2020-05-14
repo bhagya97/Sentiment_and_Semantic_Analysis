@@ -1,0 +1,6 @@
+,Search Query,Document Containing term(df),Total Documents(N)/Documents containing the term(df),Log10(N/df)
+0,Canada,276,1.6884057971014492,0.22747683462478244
+1,University,5,93.2,1.9694159123539814
+2,Dalhousie,0,N/A,N/A
+3,Halifax,0,N/A,N/A
+4,Business,2,233.0,2.367355921026019
